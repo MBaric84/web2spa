@@ -1,3 +1,9 @@
+Pokretanje aplikacije:
+- Development mode: npm run dev
+- Production mode: npm run build && npm run preview
+https://web2spa-ujob.onrender.com
+
+
 1. interpolacija/jednosmjerno povezivanje - Da, src/components/Subjects.vue, linije 21-23, prikaz course.name, course.professor i course.credits u tablici
 
 2. dvosmjerno povezivanje - Da, src/components/DetailsModal.vue, linije 16, 42, varijabla courseCredits povezana s formom preko v-model
@@ -25,4 +31,3 @@
 
 12. asinkroni dohvat podataka - Da, src/stores/courses.js, fetchCourses funkcija dohvaća podatke s Mocky API-ja
 
-https://web2spa-ujob.onrender.com
