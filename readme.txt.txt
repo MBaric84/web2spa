@@ -24,3 +24,5 @@
 11. store (Pinia) - Da, src/stores/courses.js, implementiran za upravljanje predmetima
 
 12. asinkroni dohvat podataka - Da, src/stores/courses.js, fetchCourses funkcija dohvaća podatke s Mocky API-ja
+
+https://web2spa-ujob.onrender.com
