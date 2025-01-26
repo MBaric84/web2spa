@@ -8,7 +8,9 @@ https://web2spa-ujob.onrender.com
 
 2. dvosmjerno povezivanje - Da, src/components/DetailsModal.vue, linije 16, 42, varijabla courseCredits povezana s formom preko v-model
 
-3. metode - Da, src/components/Subjects.vue, linije 71-77, implementirane metode deleteCourse i onDetails za upravljanje predmetima
+3. metode - Da, src/components/Subjects.vue, linije 71-77, implementirane metode:
+   - onDetails: za otvaranje modalnog prozora s detaljima predmeta
+   - deleteCourse: definirana ali trenutno nije u upotrebi
 
 4. computed svojstva - Da, src/components/Subjects.vue, linije 63-65, sumOfCredits koji automatski zbraja bodove predmeta
 
